@@ -7,7 +7,6 @@ STEPS:
 
 If you have any questions, feel free to contact me (shawnli1201@gmail.com) or create pull requests.
 
-
 使用步骤：
 
 1.通过cocoapos引入，pod 'STSemiView', 或者拷贝UIViewController+STSemiView.h/UIViewController+STSemiView.m文件到你的工程中。
