@@ -14,4 +14,4 @@ If you have any questions, feel free to contact me (shawnli1201@gmail.com) or cr
 3. 如果你的视图中某个按钮需要触发隐藏视图功能，请调用- (void)removeSemiViewWithAnimation:(BOOL)animation;
 4. 具体使用示例，请参考Demo。
 
-如果有任何问题，请联系我（shawnli1201@gmail.com）或者创建create pull requests.
+如果有任何问题，请联系我（shawnli1201@gmail.com）或者创建pull requests.
